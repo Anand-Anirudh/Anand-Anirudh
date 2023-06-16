@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anirudh Anand
 
-- 🌱 I’m currently learning Pyhton, Machine Learning, Data Analytics and Data Structures
+- 🌱 I’m currently learning Pyhton, Machine Learning, Data Analytics and Data Science
 
 - 📫 How to reach me anirudhanand80@gmail.com
 
